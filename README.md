@@ -18,7 +18,8 @@ The dataset “MechaCar_mpg.csv” has miles per gallon (mpg) test results for 5
 ### Additional Step
 If we remove the vehicle weight, spoiler angle, and AWD (less impactful independent variables), the predictability does decrease, but not drastically: the r-squared value falls from 0.7149 to 0.674.
 
-![image](https://github.com/blueschistrocks/MechaCar_Statistical_Analysis/blob/853909cc444a6e30f923f304077917712714246b/images/Screen%20Shot%202022-06-01%20at%207.25.55%20PM.png)<br>
+![image](https://user-images.githubusercontent.com/100445489/172735552-5c6a096c-2613-4ad5-9847-09490481f258.png)
+
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 Useing the "Suspension_Coil.csv" data set two dataframes were created. 
