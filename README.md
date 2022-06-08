@@ -28,30 +28,37 @@ Useing the "Suspension_Coil.csv" data set two dataframes were created.
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch (PSI).   
 
 ### Total Summary Dataframe
-![image](https://github.com/blueschistrocks/MechaCar_Statistical_Analysis/blob/853909cc444a6e30f923f304077917712714246b/images/Screen%20Shot%202022-06-01%20at%207.33.06%20PM.png)<br>
+![image](https://user-images.githubusercontent.com/100445489/172735632-c395824c-492c-4dea-9f10-31c136cf97fa.png)
+
 
 ### Lot Summary Dataframe
-![image](https://github.com/blueschistrocks/MechaCar_Statistical_Analysis/blob/853909cc444a6e30f923f304077917712714246b/images/Screen%20Shot%202022-06-01%20at%207.34.06%20PM.png)<br>
+![image](https://user-images.githubusercontent.com/100445489/172735659-42b522da-5bc2-4a34-b07a-a8044aee6c21.png)
+
 
 Based on a review of the dataframes Lot 3 exceeds 100 PSI, therefore does not meet the design specification. The reason for this are numerous outliers (refer to plot below).
+![image](https://user-images.githubusercontent.com/100445489/172735729-7c8450a8-2c8f-4ebb-88ca-6fa17f177adc.png)
 
-![image](https://github.com/blueschistrocks/MechaCar_Statistical_Analysis/blob/853909cc444a6e30f923f304077917712714246b/images/image-2.png)<br>
 
 ## Deliverable 3: T-Tests on Suspension Coils 
 
 The true mean of the sample is 1498.78.  With a p-Value of 0.06028, which is higher than the common significance level of 0.05, there isn’t enough evidence to support rejecting the null hypothesis. The mean of all three of these manufacturing lots is statistically similar to the presumed population mean of 1500.
 
-![image](https://github.com/blueschistrocks/MechaCar_Statistical_Analysis/blob/5840c0bd4ed03d950ac2b84b3955c23f3d002da0/images/Screen%20Shot%202022-06-01%20at%208.53.16%20PM.png)<br>
+![image](https://user-images.githubusercontent.com/100445489/172735864-8e17fbf5-4dca-4137-a490-3417cbbd4ca1.png)
+
 
 Lot 1 has a true sample mean of 1500 and a p-Value of 1.  We can’t reject the null hypothesis that there is no statistical difference between the observed sample mean and the presumed population mean of 1500.
 
 
-![image](https://github.com/blueschistrocks/MechaCar_Statistical_Analysis/blob/5840c0bd4ed03d950ac2b84b3955c23f3d002da0/images/Screen%20Shot%202022-06-01%20at%208.53.30%20PM.png)<br>
+![image](https://user-images.githubusercontent.com/100445489/172736034-19a51447-f0a2-4d4b-8cd3-1bb930b78771.png)
+
+
+
 
 Lot 2 has a true sample mean of 1500.02 and a p-Value of 0.6072.  Again we can’t reject the null hypothesis.
 
 
-![image](https://github.com/blueschistrocks/MechaCar_Statistical_Analysis/blob/5840c0bd4ed03d950ac2b84b3955c23f3d002da0/images/Screen%20Shot%202022-06-01%20at%208.53.52%20PM.png)<br>
+![image](https://user-images.githubusercontent.com/100445489/172736078-2678b5f9-5ac4-49f8-89ec-ce9172361563.png)
+
 
 Lot 3 has a true sample mean of 1496.14and a p-Value of 0.04168.  The p-Value is lower than the common significance level of 0.05, therefore we should reject the null hypothesis that this sample mean and the presumed population mean are not statistically different.
 .
