@@ -36,6 +36,8 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 
 Based on a review of the dataframes Lot 3 exceeds 100 PSI, therefore does not meet the design specification. The reason for this are numerous outliers (refer to plot below).
+
+
 ![image](https://user-images.githubusercontent.com/100445489/172735729-7c8450a8-2c8f-4ebb-88ca-6fa17f177adc.png)
 
 
