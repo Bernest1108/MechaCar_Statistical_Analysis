@@ -11,7 +11,7 @@ The dataset “MechaCar_mpg.csv” has miles per gallon (mpg) test results for 5
  -  The p-value of 5.35e-11 is much smaller than the significance level of 0.05. There is sufficient evidence that the slope of the linear model is not 0.
 - With an R-squared of 0.7149 there is a moderate to strong chance that this linear model is effective at predicting mpg. There is a 71% chance that the variability of mpg is explained using this linear model.
 
-![image](https://github.com/blueschistrocks/MechaCar_Statistical_Analysis/blob/853909cc444a6e30f923f304077917712714246b/images/Screen%20Shot%202022-06-01%20at%207.25.16%20PM.png)<br>
+https://github.com/Bernest1108/MechaCar_Statistical_Analysis/blob/main/images/Snip%201.png
 
 ### Additional Step
 If we remove the vehicle weight, spoiler angle, and AWD (less impactful independent variables), the predictability does decrease, but not drastically: the r-squared value falls from 0.7149 to 0.674.
