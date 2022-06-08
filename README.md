@@ -47,16 +47,18 @@ The true mean of the sample is 1498.78.  With a p-Value of 0.06028, which is hig
 
 
 
+![image](https://user-images.githubusercontent.com/100445489/172736620-121aed08-2f55-4d3c-bf73-b0c7b8486075.png)
 
-![image](https://user-images.githubusercontent.com/100445489/172735864-8e17fbf5-4dca-4137-a490-3417cbbd4ca1.png)
+
+
+
+
 
 
 Lot 1 has a true sample mean of 1500 and a p-Value of 1.  We can’t reject the null hypothesis that there is no statistical difference between the observed sample mean and the presumed population mean of 1500.
 
 
-
-
-![image](https://user-images.githubusercontent.com/100445489/172736034-19a51447-f0a2-4d4b-8cd3-1bb930b78771.png)
+![image](https://user-images.githubusercontent.com/100445489/172736458-c677cf46-ab4a-4023-89ea-9440972eaa71.png)
 
 
 
@@ -64,7 +66,8 @@ Lot 1 has a true sample mean of 1500 and a p-Value of 1.  We can’t reject the 
 Lot 2 has a true sample mean of 1500.02 and a p-Value of 0.6072.  Again we can’t reject the null hypothesis.
 
 
-![image](https://user-images.githubusercontent.com/100445489/172736078-2678b5f9-5ac4-49f8-89ec-ce9172361563.png)
+![image](https://user-images.githubusercontent.com/100445489/172736666-d5db48d3-022b-4700-baec-5d6316873f01.png)
+
 
 
 
